@@ -36,7 +36,7 @@
 </b:if>
 
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
-<meta content='Koen - Free Media' name='description'/>
+<meta content='Your Blog' name='description'/>
 <meta content='Googleont' name='keywords'/>
 </b:if>
 
